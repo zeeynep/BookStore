@@ -1,5 +1,5 @@
 # BookStore
-A desktop application where you can buy books, music albums and magazines. Developed with C# and MSSQL.
+Kitap, müzik albümü, dergi satın alabileceğiniz bir masaüstü uygulaması. C# ve MSSQL kullanılarak geliştirildi.
 - Sıla Eşme
 - Sanem Yıldız Kavukoğlu
 - Zeynep Gürlüzer
