@@ -1,0 +1,28 @@
+var class_online_book_store_1_1_user_control_change_informations =
+[
+    [ "UserControlChangeInformations", "class_online_book_store_1_1_user_control_change_informations.html#a530e2b9ce2ad2c448ce99686c093b992", null ],
+    [ "btnSave_Click", "class_online_book_store_1_1_user_control_change_informations.html#a6b798df7b88570b90e71cc5e6b937f79", null ],
+    [ "btnUpdateImage_Click", "class_online_book_store_1_1_user_control_change_informations.html#a72207246050a67a37c5377c49bf2afad", null ],
+    [ "btnUpdateInfo_Click", "class_online_book_store_1_1_user_control_change_informations.html#a1a39b789f0c13a09cfa8fd7f6649ac33", null ],
+    [ "Dispose", "class_online_book_store_1_1_user_control_change_informations.html#a0702d30b2965aaea08af21b82277a30a", null ],
+    [ "InitializeComponent", "class_online_book_store_1_1_user_control_change_informations.html#a8940e4b2d496a50966516561c105aa15", null ],
+    [ "SetTextBoxInfo", "class_online_book_store_1_1_user_control_change_informations.html#a87c6dc5ba2ee6e29c07956f3507a2241", null ],
+    [ "_bytesOfImage", "class_online_book_store_1_1_user_control_change_informations.html#ae61fff061bc5398464657fce21b684c1", null ],
+    [ "btnSave", "class_online_book_store_1_1_user_control_change_informations.html#ae1f310ba74a2e1194b2894b7a7f8aaca", null ],
+    [ "btnUpdateImage", "class_online_book_store_1_1_user_control_change_informations.html#a1766f3180d4790e1b45d8b4bf4ca5d84", null ],
+    [ "btnUpdateInfo", "class_online_book_store_1_1_user_control_change_informations.html#a97200c0cd76d17084882c5df9f65a36b", null ],
+    [ "components", "class_online_book_store_1_1_user_control_change_informations.html#aabaccb758e9e1684ae05242478970361", null ],
+    [ "customer", "class_online_book_store_1_1_user_control_change_informations.html#a4a04d37f7b8e21f8dd483835d9840bb1", null ],
+    [ "lblAddressH", "class_online_book_store_1_1_user_control_change_informations.html#a26b4e93e0be29e7d58ea001a11e31115", null ],
+    [ "lblEMailH", "class_online_book_store_1_1_user_control_change_informations.html#ac39bf97b9ef9e9b3ac575f5d7229ec02", null ],
+    [ "lblInfoUpdate", "class_online_book_store_1_1_user_control_change_informations.html#a49cb01dd57b02b8ec14fdeaf5ae71c6c", null ],
+    [ "lblNameH", "class_online_book_store_1_1_user_control_change_informations.html#af3b6918ba8ef3fc97d9b46f8e26643d2", null ],
+    [ "lblSurnameH", "class_online_book_store_1_1_user_control_change_informations.html#af301f87824d1c6c1539cece59ee2b851", null ],
+    [ "openFileDialog1", "class_online_book_store_1_1_user_control_change_informations.html#abfca65174186090972cb3a4cdb565bfd", null ],
+    [ "pictureBoxCustomer", "class_online_book_store_1_1_user_control_change_informations.html#a18eb1e273750c83e65984e8865b71acc", null ],
+    [ "txtaddress", "class_online_book_store_1_1_user_control_change_informations.html#a8f20961b081360cdc8f71d5d2b9f8fdd", null ],
+    [ "txtemail", "class_online_book_store_1_1_user_control_change_informations.html#a4486c0478ae89953843bf8ef69dc63dd", null ],
+    [ "txtname", "class_online_book_store_1_1_user_control_change_informations.html#afee2046e3aa57ce6138589e7be4ede0e", null ],
+    [ "txtsurname", "class_online_book_store_1_1_user_control_change_informations.html#ae6b78874d66de34b51d82de078e5c67c", null ],
+    [ "userControlMyPage", "class_online_book_store_1_1_user_control_change_informations.html#a42d8a3fc02dabdc9652e49951a868899", null ]
+];

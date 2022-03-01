@@ -1,0 +1,27 @@
+var class_online_book_store_1_1_form_sign_up =
+[
+    [ "FormSignUp", "class_online_book_store_1_1_form_sign_up.html#a49c619f78f1ff96f95eda2585d5b9005", null ],
+    [ "btn_signup_Click", "class_online_book_store_1_1_form_sign_up.html#a9ebed34e5d0726908d5097c489984fd1", null ],
+    [ "Dispose", "class_online_book_store_1_1_form_sign_up.html#a8c70772891e4e5226c57086afe986ff7", null ],
+    [ "InitializeComponent", "class_online_book_store_1_1_form_sign_up.html#ae6d5d59c793b70e45ea1c0b3cc727711", null ],
+    [ "pictureBox_exit_Click", "class_online_book_store_1_1_form_sign_up.html#aee73500c1f2c063866718e30972e71ae", null ],
+    [ "btn_signup", "class_online_book_store_1_1_form_sign_up.html#a615c48683e1cd88978cd7fda80aef14d", null ],
+    [ "components", "class_online_book_store_1_1_form_sign_up.html#a559e6b0bdecad96c1731067402051fd0", null ],
+    [ "label1", "class_online_book_store_1_1_form_sign_up.html#ad0e7fa81e43ab13ed29631c9ace1647d", null ],
+    [ "lbl_addressH", "class_online_book_store_1_1_form_sign_up.html#a9d288be67b2e742513b7129df02d17d7", null ],
+    [ "lbl_confirmH", "class_online_book_store_1_1_form_sign_up.html#ab42ff40f6123752a54af0cb5b972c6f9", null ],
+    [ "lbl_mailH", "class_online_book_store_1_1_form_sign_up.html#a6089136eb8876cedcb4e91bf7ff9856e", null ],
+    [ "lbl_nameH", "class_online_book_store_1_1_form_sign_up.html#a75fb9c0441a6a81ff76372b590e3f93b", null ],
+    [ "lbl_passwordH", "class_online_book_store_1_1_form_sign_up.html#af27e7a65733099e57172e1c97201efce", null ],
+    [ "lbl_signupheader", "class_online_book_store_1_1_form_sign_up.html#a830a6135651dcf8754a107078f189930", null ],
+    [ "lbl_usernameH", "class_online_book_store_1_1_form_sign_up.html#a0a8851443daa68405f6c25b5ea5bd1df", null ],
+    [ "pictureBox1", "class_online_book_store_1_1_form_sign_up.html#a2c7f001ca5bdabaf9c17b60968f16f05", null ],
+    [ "pictureBox_exit", "class_online_book_store_1_1_form_sign_up.html#a60d947a4b1d45883f31187f63c7bc048", null ],
+    [ "txtAddress", "class_online_book_store_1_1_form_sign_up.html#a7121355ec24b3ced2dba614a4e5e3797", null ],
+    [ "txtConfirmPassword", "class_online_book_store_1_1_form_sign_up.html#a9e411bc26714cf40d48f14d51ea0a04b", null ],
+    [ "txteMail", "class_online_book_store_1_1_form_sign_up.html#a633d02067368ec1a46f3256ffa5a8d06", null ],
+    [ "txtName", "class_online_book_store_1_1_form_sign_up.html#ac261f300e6b55df015b151b46f88cf37", null ],
+    [ "txtPassword", "class_online_book_store_1_1_form_sign_up.html#addd304d961ef6104016226709c62c29c", null ],
+    [ "txtSurname", "class_online_book_store_1_1_form_sign_up.html#ae327d3806ad3935570edcaa0c7e0027f", null ],
+    [ "txtUsername", "class_online_book_store_1_1_form_sign_up.html#a43cc20e4724aaa5acef2e53ffc1a7c1e", null ]
+];

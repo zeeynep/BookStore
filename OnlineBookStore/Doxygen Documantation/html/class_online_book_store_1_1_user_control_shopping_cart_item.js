@@ -1,0 +1,25 @@
+var class_online_book_store_1_1_user_control_shopping_cart_item =
+[
+    [ "UserControlShoppingCartItem", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a709a1ebbff7f40fc133904b7040261a7", null ],
+    [ "btnDecrase_Click", "class_online_book_store_1_1_user_control_shopping_cart_item.html#ab709d6634f0f57cd098b6955ea7cc867", null ],
+    [ "btnDelete_Click", "class_online_book_store_1_1_user_control_shopping_cart_item.html#ae2098047c5a1dc7d96b8b795a28b6079", null ],
+    [ "btnIncrease_Click", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a9031937c75e3a3b64ac7a6490de65a1f", null ],
+    [ "Dispose", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a666036d64c64e3d1a2c39c5edbaeee0b", null ],
+    [ "InitializeComponent", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a250115585253c225a4689a12b8649113", null ],
+    [ "SetLabel", "class_online_book_store_1_1_user_control_shopping_cart_item.html#aeac80b044b1ed1ad95e6af523adc12bb", null ],
+    [ "btnDecrase", "class_online_book_store_1_1_user_control_shopping_cart_item.html#af791617956366e34254500b74d93ecc1", null ],
+    [ "btnDelete", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a11eb8488db68d72a710d085435f5c8e2", null ],
+    [ "btnIncrease", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a8269e4a3585b343e8c403393504a5b7b", null ],
+    [ "components", "class_online_book_store_1_1_user_control_shopping_cart_item.html#ad84abe196008102bc3076ea1791c1d91", null ],
+    [ "label1", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a4f1853fa0cb558312721db56a30b9cf5", null ],
+    [ "lblName", "class_online_book_store_1_1_user_control_shopping_cart_item.html#adbed83480fcd8092abc41b1f962e414f", null ],
+    [ "lblNameH", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a0ddccbd68059c954b1ce357bae4c7680", null ],
+    [ "lblPrice", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a948e13a35615fa5ee4ca2a3f895d0ac2", null ],
+    [ "lblPriceH", "class_online_book_store_1_1_user_control_shopping_cart_item.html#ac8784dc2d30c407b481a594a5fb770cf", null ],
+    [ "lblTL", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a6c34257bddc221101ebf6f79c6a62e08", null ],
+    [ "lblTotalAmount", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a973f04a7080571f98106fad591da087b", null ],
+    [ "lblTotalPrice", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a0ae5601ea215b510ff1630768414aee9", null ],
+    [ "lblTotalPriceH", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a22f1266ea47190c4c4fd1938f9c37fb1", null ],
+    [ "pictureBox_product", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a3cdee7cee18911caf8372aa28eced366", null ],
+    [ "userControlShoppingCart", "class_online_book_store_1_1_user_control_shopping_cart_item.html#a72f0598cf0083457084e7cad63809f4e", null ]
+];

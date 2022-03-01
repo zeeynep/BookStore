@@ -1,0 +1,239 @@
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormShoppingCart.resources
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\lenovo\source\repos\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormShoppingCart.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\lenovo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\lenovo\Desktop\OnlineBookStore1dENEME\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMy_OrderList.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMy_OrderList.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMy_OrderList.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\Zeynep\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.FormLogin.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.FormMainPage.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.FormSignUp.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBook.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMy_OrderList.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlProductDetails.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlBooks.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlChangeInformations.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazine.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazineDetails.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMagazines.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCD.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDDetail.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMusicCDs.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyPage.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCart.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlShoppingCartItem.resources
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\silae\Desktop\ZEYNEP\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMy_OrderList.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrder.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlMyOrders.resources
+C:\Users\silae\Desktop\Projects\OOP II\Final\Book-Store\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserControlPayment.resources

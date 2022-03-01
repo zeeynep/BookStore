@@ -1,0 +1,25 @@
+var class_online_book_store_1_1_user_control_music_c_d_detail =
+[
+    [ "UserControlMusicCDDetail", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a50935feb8f9dbb23e5e62188c625d51e", null ],
+    [ "btn_AddtoCart_Click", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ae14b6148c9d00e2f0cc7139de07b8f3d", null ],
+    [ "CreateMusicCDDeatils", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a50cf5f4536e692f097487835d83abf52", null ],
+    [ "Dispose", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ab221755df91f358bc99f97216b248894", null ],
+    [ "InitializeComponent", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a4575a570cf1544e073034920893f74b8", null ],
+    [ "SetMusicCDInfo", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a2232e4077af3bc1c013bdc1c4415c150", null ],
+    [ "btn_AddtoCart", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a947bb65df54dd8c5b7ddc3b045db4006", null ],
+    [ "components", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ae5a40f9d5308785458688a6b0c1d5072", null ],
+    [ "labelAddInfo", "class_online_book_store_1_1_user_control_music_c_d_detail.html#aeac9170ba11abeea2c65c65f23f71af0", null ],
+    [ "lblName", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ac055820d435ea5beee4127836d14c04d", null ],
+    [ "lblNameH", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a9bf0f762bb54463ed8b19acc7da5f85c", null ],
+    [ "lblPrice", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a519cfd5f8f4500c2c3b6dc608bd2a624", null ],
+    [ "lblPriceH", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a097103444dc8300f92b1f0179cd5daf3", null ],
+    [ "lblSinger", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a6d8d89713172fd9d105c1969eb722fe2", null ],
+    [ "lblSingerH", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a2213ac0b775d3b0578815f45be77a57b", null ],
+    [ "lblTL", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ad3b7c281f7819aae3ecf045d8a5eb695", null ],
+    [ "lblType", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a83917761527beceb8b6e92358456b891", null ],
+    [ "lblTypeH", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a39fe762a7fac3f3f6a1adcf624e650c4", null ],
+    [ "panel1", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a2bde39136158807cc82e83cb0fd1cc6b", null ],
+    [ "panel2", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a3c2e098074e23964014a053bb30b5b51", null ],
+    [ "pictureBoxMusicCD", "class_online_book_store_1_1_user_control_music_c_d_detail.html#ab39fe8f9bd02268fec2a66d9422ec8e1", null ],
+    [ "userControlMusicCDDetail", "class_online_book_store_1_1_user_control_music_c_d_detail.html#a3bd6bf3c7640cc762501becfda883635", null ]
+];
